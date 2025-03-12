@@ -1,1 +1,1 @@
-🫶
+🫶 `world.execute(ruka64);`
