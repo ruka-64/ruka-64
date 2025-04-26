@@ -14,7 +14,8 @@
 ## Contact
 
 * Session = `055de169a738acacdc7dc649d6a1f62714c98dcd2e08c2e30fdfc5de66a0cd862f`
-* EMail = `me@ruka64.dev`
+* Discord = `ruka64___`
+* Email = `me@ruka64.dev`
 
 <div align="center">
   <img src="https://count.getloli.com/@ruka64?name=ruka64&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
