@@ -5,6 +5,7 @@
 * Read & Understand code that written in Python
 
 ## I 🫶 playing
+* Borderlands3
 * Genshin Impact
 * Valorant
 * Minecraft
